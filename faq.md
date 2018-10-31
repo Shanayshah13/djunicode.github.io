@@ -33,9 +33,9 @@ If you want to switch from frontend to backend and vice versa, ensure that you h
 
 #### Projects
 
-**What is the correct way to proceed for a project?
-1. Get the code shown in a YouTube video or any other source and then implement it according to your needs?
-2. Go through the documentation and start from scratch?**
+**What is the correct way to proceed for a project?**
+**1. Get the code shown in a YouTube video or any other source and then implement it according to your needs?**
+**2. Go through the documentation and start from scratch?**
 
 Maulik answers:
 
