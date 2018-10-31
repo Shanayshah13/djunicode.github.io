@@ -23,6 +23,6 @@ The Unicode Blog
 
         bundle exec jekyll serve
 
-Feel free to add new posts into the `posts` directory by referring to the [Contributor's Guide](https://djunicode.github.io/2018-06-07-contributors-guide.markdown).
+Feel free to add new posts into the `posts` directory by referring to the [Contributor's Guide](https://djunicode.github.io/new/contributor/2018/06/07/contributors-guide.html).
 
 Created using [Github Pages and Jekyll](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/)
